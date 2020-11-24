@@ -1,7 +1,7 @@
 # Pertemuan-9
-**NAMA: SHOBAHUS SOLICHIN**
-**KELAS: TI.20.A1**
-**NIM: 31210076**
+**NAMA: SHOBAHUS SOLICHIN** <br>
+**KELAS: TI.20.A1** <br>
+**NIM: 31210076** <br>
 
 ## Program Data Mahasiswa
 pada praktikum 4 ini, saya akan membuat program sederhana untuk menginput data kedalam list.
@@ -82,7 +82,7 @@ for item in nilai:
           .format(no=i, nama=item[0], nim=item[1], tugas=item[2], uts=item[3], uas=item[4], akhir=item[5]))
 print("==================================================================")
 ```
-![sebelum](Foto/SHOBA3.PNG)
+![sebelum](Foto/asli 1.PNG)
 
 ##Praktikum 5
 
@@ -218,4 +218,4 @@ while True:
 Setelah menginput berbagai data atau item, inputan item tersebut akan masuk ke dalam list 'nilai' <br>
 
 * Terakhir kita akan mencetak hasil dari program yang telah dibuat. <br>
-![tugas5h](foto/tugas5h.png)
+![hasil](Foto/SHOBA3.PNG)
