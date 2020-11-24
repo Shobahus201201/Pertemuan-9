@@ -29,7 +29,11 @@ for item in nilai:
     print("| {no:2d} | {nama:12s} | {nim:9s} | {tugas:5d} | {uts:5d} | {uas:5d} | {akhir:6.2f} |"
           .format(no=i, nama=item[0], nim=item[1], tugas=item[2], uts=item[3], uas=item[4], akhir=item[5]))
 print("==================================================================")
+
 ```
+Seperti contoh berikut:
+![sebelum](Foto/shoba12.PNG)
+
 #### Penjelasan:
 1.) Pertama kita membuat variable list kosong.
 ```python
