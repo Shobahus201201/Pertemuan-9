@@ -277,5 +277,13 @@ while True:
 * Dari statement diatas, kita akan diminta untuk menginput nama, nim, nilai tugas, nilai uts, dan nilai uas, lalu system akan menjumlahkan nilai-nilai tersebut dan menghasilkan nilai akhir. <br>
 Setelah menginput berbagai data atau item, inputan item tersebut akan masuk ke dalam list 'nilai' <br>
 
-* Terakhir kita akan mencetak hasil dari program yang telah dibuat. <br>
+* Terakhir kita akan mencetak hasil dari program yang telah dibuat
 ![hasil](Foto/SHOBA3.PNG)
+
+Hasil Flowchart seperti berikut ini :
+![Flowchart](Foto/Flowchart.PNG)
+
+#TERIMA KASIH
+Cukup sekian Mohon Maaf apabila dalam mengerjakan tugas banyak yang salah baik dalam codingan dan lain-lainnya.
+
+![foto](Foto/shoba123.jpg)
