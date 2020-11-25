@@ -283,7 +283,7 @@ Setelah menginput berbagai data atau item, inputan item tersebut akan masuk ke d
 Hasil Flowchart seperti berikut ini : <br>
 ![Flowchart](Foto/Flowchart.PNG)
 
-#TERIMA KASIH
+#TERIMA KASIH <br>
 Cukup sekian Mohon Maaf apabila dalam mengerjakan tugas banyak yang salah baik dalam codingan dan lain-lainnya. <br>
 
 ![foto](Foto/shoba123.jpg)
