@@ -1,7 +1,7 @@
 # Pertemuan-9
 **NAMA: SHOBAHUS SOLICHIN** <br>
 **KELAS: TI.20.A1** <br>
-**NIM: 31210076** <br>
+**NIM: 312010076** <br>
 
 ## Program Data Mahasiswa
 pada praktikum 4 ini, saya akan membuat program sederhana untuk menginput data kedalam list.
