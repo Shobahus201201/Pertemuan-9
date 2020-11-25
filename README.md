@@ -5,6 +5,7 @@
 
 ## Program Data Mahasiswa
 pada praktikum 4 ini, saya akan membuat program sederhana untuk menginput data kedalam list.
+![Tugas4](Foto/shoba4.png)
 
 ### Berikut Inputannya : 
 ```python
@@ -83,6 +84,9 @@ for item in nilai:
 print("==================================================================")
 ```
 ![sebelum](Foto/shobahus1.PNG)
+Hasil Flowchart seperti berikut ini : <br>
+![Flowchart](Foto/Flowchart.PNG)
+
 
 # Praktikum 5
 
@@ -279,9 +283,6 @@ Setelah menginput berbagai data atau item, inputan item tersebut akan masuk ke d
 
 * Terakhir kita akan mencetak hasil dari program yang telah dibuat
 ![hasil](Foto/SHOBA3.PNG)
-
-Hasil Flowchart seperti berikut ini : <br>
-![Flowchart](Foto/Flowchart.PNG)
 
 # TERIMA KASIH <br>
 Cukup sekian Mohon Maaf apabila dalam mengerjakan tugas banyak yang salah baik dalam codingan dan lain-lainnya. 
