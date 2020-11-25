@@ -84,7 +84,7 @@ print("==================================================================")
 ```
 ![sebelum](Foto/shobahus1.PNG)
 
-##Praktikum 5
+# Praktikum 5
 
 * pada praktikum 5 ini, saya akan membuat program sederhana untuk menginput data kedalam list. <br>
 
